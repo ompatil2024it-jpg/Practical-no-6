@@ -24,7 +24,7 @@ public class Calculator {
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
 
-        System.out.println("Addition: " +
+        System.out.println("Addition Result: " +
                 calculator.add(10, 5));
 
         System.out.println("Subtraction: " +
